@@ -1,6 +1,5 @@
-# :sparkles: Note
+# :sparkles: Notes
 
--对于一个线性代数的方程组而言，我们可以分别从行角度和列角度两个视角去看待
 ## Vector and Linear Combination
 
 - Linear Combination
