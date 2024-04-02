@@ -18,8 +18,6 @@
   
 <img width="1121" alt="image" src="https://github.com/wscstrive/MATH/assets/101634608/f0eb48ed-665c-4f7d-ba41-a7ac291403d4">
 
-<img width="1154" alt="image" src="https://github.com/wscstrive/MATH/assets/101634608/6d5195e1-b53a-4ef4-ac88-c76edc616e20">
-
 - 总结
   
 <img width="1092" alt="image" src="https://github.com/wscstrive/MATH/assets/101634608/ebfd5571-2c49-4755-a02f-2e550cb9e1f5">
