@@ -25,15 +25,35 @@
 
 - 列角度
 
+<img width="700" alt="image" src="https://github.com/wscstrive/MATH/assets/101634608/f55a8bb7-ffd6-4926-bf60-291f6f9fb588">
 
-### 矩阵右乘未知系数
+> 若得到一个数，顺序永远是一行向量乘以一列向量
 
-![image](https://github.com/wscstrive/MATH/assets/101634608/7b426239-325e-4bf2-bf96-0763e0d6064c)
+## The Idea of Elimination
 
-> 右乘为列变换，相乘为平行方向相加
+### 消元法
 
-### 矩阵左乘未知系数
+- 就是将Ax=b中的A变成上三角矩阵
 
-![image](https://github.com/wscstrive/MATH/assets/101634608/f231cf91-bd37-471d-acc3-ae1117dfd992)
+## Elimination Using Matrices
 
-> 左乘为行变换，相乘为垂直方向相加
+- Ax=b -> EAx=Ux=b_new
+
+## Rules or Matrix Operations 
+
+### 加乘的维度变化
+
+- 对于乘法AB来说，由于矩阵的乘法是一行乘以一列，因此矩阵A的行向量内部的个数=矩阵B的列向量内部的个数
+- 而加法，矩阵维度一样就行了
+
+## Inverse Matrices
+
+- 知识点 增广矩阵
+
+## Elimination = Factorization:  A  =  LU
+
+- A=LU分解其中的L其实就是A如何变为上三角矩阵U的变换过程，由一个个E_(i,j)组成（消元步骤）
+
+## Transposes and Permutations 
+
+- 基础
